@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Liunan 👋
 
-<!--
-**liunan09-ops/liunan09-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student at Huazhong University of Science and Technology.
 
-Here are some ideas to get you started:
+Research interests:
+- Operations Research
+- Artificial Intelligence
+- Large Language Model Agents
+- Optimization-based Decision Making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Featured Projects
+
+### LLM4OR Supply Chain Decision Agent
+
+An LLM-powered supply chain decision agent integrating:
+
+- RAG retrieval
+- Tool calling
+- MILP optimization
+- Operations research decision making
+- Docker-based deployment
+
+Repository:
+https://github.com/liunan09-ops/llm4or-supplychain-agent-public
+
+
+### Configurable Agent Runtime & Tool Workflow Platform
+
+A configurable agent runtime platform supporting:
+
+- Tool registration
+- Workflow orchestration
+- State management
+- Execution replay
+- LLM-based task execution
+
+Repository:
+https://github.com/liunan09-ops/agent-runtime-platform
+
+
+## 🛠 Tech Stack
+
+- Python
+- PyTorch
+- RAG
+- LLM Agent
+- MILP
+- Operations Research
+- Docker
+- Git
